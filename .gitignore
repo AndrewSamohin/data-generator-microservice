@@ -1,6 +1,7 @@
-.target
-.gitattributes
-.gitignore
 .mvn
 mvnw.cmd
 .env
+.idea
+.gitattributes
+data-generator-microservice.iml
+.gitignore
